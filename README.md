@@ -12,3 +12,4 @@ A simple JavaScript-based weather forecast app that fetches real-time weather da
 - **Recent Searches Dropdown** 🔄
 - **Error Handling & Validation** ⚠️
 
+Github pages link - https://akash-tri.github.io/WeatherForecastApp/
